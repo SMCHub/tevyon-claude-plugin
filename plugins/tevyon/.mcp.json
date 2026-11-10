@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tevyon": {
+      "type": "http",
+      "url": "https://app.tevyon.ai/api/mcp"
+    }
+  }
+}

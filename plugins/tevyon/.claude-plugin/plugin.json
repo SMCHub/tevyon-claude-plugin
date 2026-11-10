@@ -1,0 +1,8 @@
+{
+  "name": "tevyon",
+  "version": "1.0.0",
+  "description": "Create images and videos with Tevyon from your conversation: pick a model, see the price in credits before every start, get the finished result as a link.",
+  "author": { "name": "Tevyon", "email": "support@tevyon.ai", "url": "https://tevyon.ai" },
+  "homepage": "https://tevyon.ai/en/claude",
+  "keywords": ["image", "video", "generation", "marketing", "storyboard"]
+}

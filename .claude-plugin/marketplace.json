@@ -1,0 +1,14 @@
+{
+  "name": "tevyon",
+  "owner": { "name": "Tevyon", "email": "support@tevyon.ai" },
+  "metadata": { "description": "Tevyon for Claude Code: create images and videos from your conversation." },
+  "plugins": [
+    {
+      "name": "tevyon",
+      "source": "./plugins/tevyon",
+      "description": "Create images and videos with Tevyon: pick a model, see the price in credits before every start, get the finished result as a link.",
+      "homepage": "https://tevyon.ai/en/claude",
+      "category": "design"
+    }
+  ]
+}
